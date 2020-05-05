@@ -13,7 +13,7 @@
 $p = 1;
 
 while ($p <= 15) {
-    echo "Fikar ganteng";
+    echo "Fikar ganteng <br>";
 
     $p++;
 }
